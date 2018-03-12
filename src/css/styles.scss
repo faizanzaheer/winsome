@@ -608,7 +608,7 @@
 					padding: 0;
 					height: 250px;
 					/*margin: 2px;*/
-					background: url(../images/imgone.jpg);
+					// background: url(../images/imgone.jpg);
 					/*width: 95%;*/
 					background-position: center;
 					background-size: cover;
@@ -622,7 +622,7 @@
 					height: 250px;/*
 					margin-left: 10px;
 					margin-right: 10px;*/
-					background: url(../images/imgtwo.jpg);
+					// background: url(../images/imgtwo.jpg);
 					background-position:center;
 					background-size: cover;
 					box-shadow: 1px 1px 1px 1px #FDBA26;
@@ -632,7 +632,7 @@
 				.img3{
 					padding: 0;
 					height: 250px;
-					background: url(../images/imgthree.jpg);
+					// background: url(../images/imgthree.jpg);
 					width: 100%;
 					background-size: cover;
 					background-position: center;
@@ -647,7 +647,7 @@
 				.img4{
 					padding: 0;
 					height: 250px;
-					background: url(../images/imgfour.jpg);
+					// background: url(../images/imgfour.jpg);
 					background-size: cover;
 					background-position: center;
 					box-shadow: 1px 1px 1px 1px #FDBA26;
@@ -657,7 +657,7 @@
 				.img5{
 					padding: 0;
 					height: 250px;
-					background: url(../images/imgfive.jpg);
+					// background: url(../images/imgfive.jpg);
 					background-position: center;
 					background-size: cover;
 					box-shadow: 1px 1px 3px 1px #FDBA26;
@@ -667,7 +667,7 @@
 				.img6{
 					padding: 0;
 					height: 250px;
-					background: url(../images/imgsix.jpg);
+					// background: url(../images/imgsix.jpg);
 					background-position: center;
 					background-size: cover;
 					box-shadow: 1px 1px 1px 1px #FDBA26;
@@ -753,7 +753,8 @@
 			right: 20px;
 			top: 10px;
 			font-size: 2em;
-			color: #fff;
+			color: #FDBA26;
+
 			&:hover{text-decoration: none;}
 		}
 	}
